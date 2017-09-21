@@ -3,6 +3,7 @@
 <custom-element-demo>
   <template>
     <link rel="import" href="image-inspector.html">
+    <image-inspector src="https://www.w3schools.com/css/trolltunga.jpg"></image-inspector>
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
