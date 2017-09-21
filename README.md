@@ -3,14 +3,13 @@
 <custom-element-demo>
   <template>
     <link rel="import" href="image-inspector.html">
-    <image-inspector src="https://www.w3schools.com/css/trolltunga.jpg"></image-inspector>
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
 ```
 -->
 ```html
-<image-inspector></image-inspector>
+<image-inspector src="https://www.w3schools.com/css/trolltunga.jpg"></image-inspector>
 ```
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/image-inspector)
